@@ -5,6 +5,6 @@ Awesome web development stuff including frameworks, scripts, tools, resources an
 
 
 ## CSS
-* [Ultra lightweight, usable, beautiful autocomplete with zero dependencies](https://github.com/LeaVerou/awesomplete)
+* [Awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies
 
 ## Web Sites
